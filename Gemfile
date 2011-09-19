@@ -14,6 +14,8 @@ gem 'kaminari'
 gem 'authlogic'
 gem 'levenshtein-ffi', :require => 'levenshtein'
 gem 'thinking-sphinx'
+gem 'state_machine'
+gem 'paperclip'
 
 # redis, resque
 #gem 'resque', :require => "resque/server"
